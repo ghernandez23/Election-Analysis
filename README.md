@@ -22,7 +22,7 @@ After a full audit of the election the data shows that
 2. Raymon Anthony 
 3. Diana DeGette
 
--Each of the candidates total votes are the following
+- Each of the candidates total votes are the following
 1. Casper Stockham: 85,213 total votes, 23%
 2. Raymon Anthony: 11,606 total votes, 3.1%
 3. Diana DeGette: 272,892 total votes, 73.8%
