@@ -14,7 +14,7 @@
 
 ## Summary
 
-After a full audit of the election the data shows that-
+After a full audit of the election the data shows that
 1. A total of 369,711 votes were cast overall in the election
 
 2. There was a total of 3 candidates whos names are
@@ -22,7 +22,7 @@ After a full audit of the election the data shows that-
 2b. Raymon Anthony 
 2c. Diana DeGette
 
-3. Each of the candidates total votes are the following-
+3. Each of the candidates total votes are the following
 3a. Casper Stockham: 85,213 total votes, 23%
 3b. Raymon Anthony: 11,606 total votes, 3.1%
 3c. Diana DeGette: 272,892 total votes, 73.8%
