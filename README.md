@@ -36,5 +36,5 @@ After a full audit of the election the data shows that
 2. Raymon Anthony: 11,606 total votes, 3.1%
 3. Diana DeGette: 272,892 total votes, 73.8%
 
-4. The winner of the election is Diana DeGette
+- The winner of the election is Diana DeGette
  
