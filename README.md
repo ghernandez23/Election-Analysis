@@ -21,8 +21,8 @@ After a full audit of the election the data shows that:
     -Raymon Anthony 
     -Diana DeGette
 3. Each of the candidates total votes are the following:
-    -Casper Stockham: 85,213 total votes, 23%
-    -Raymon Anthony: 11,606 total votes, 3.1%
-    -Diana DeGette: 272,892 total votes, 73.8%
+   -Casper Stockham: 85,213 total votes, 23%
+   -Raymon Anthony: 11,606 total votes, 3.1%
+   -Diana DeGette: 272,892 total votes, 73.8%
 4. The winner of the election is Diana DeGette
  
