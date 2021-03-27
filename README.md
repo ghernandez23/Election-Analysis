@@ -25,9 +25,9 @@ After a full audit of the election the data shows that
 3. Diana DeGette
 
 - A total of three counties were were included in the election and the total votes/percentage of votes overall for each county are as follows
-1.Jefferson 38,855 (10.5%)
-2.Denver 306,055 (82.8%)
-3.Arapahoe 24,801 (6.7%)
+1. Jefferson 38,855 (10.5%)
+2. Denver 306,055 (82.8%)
+3. Arapahoe 24,801 (6.7%)
 
 - After a full analysis of the data we can see that Denver county made up majority of the votes (82.8% total)
 
