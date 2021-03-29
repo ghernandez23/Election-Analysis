@@ -37,4 +37,6 @@ After a full audit of the election the data shows that
 3. Diana DeGette: 272,892 total votes, 73.8%
 
 - The winner of the election is Diana DeGette
- 
+
+- I would like to purpose that the election comission purchase this script used for further use in the future for any election in the state of Colorado. With the script that
+we have written you can swap out counties and candidates with ease to obtain the desired data from any election. 
